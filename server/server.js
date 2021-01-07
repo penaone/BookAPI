@@ -1,3 +1,4 @@
+// Paths and Middleware
 const path = require('path');
 const { authMiddleware } = require('./utils/auth');
 const express = require('express');
