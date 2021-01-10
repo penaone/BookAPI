@@ -1,53 +1,48 @@
-# BookAPI
-  
+# Book Search Engine
 
-
-
-
-   
-   # BookAPI
-  
-
-badges();
 ## Table of Contents
 * [Description](#description)
 * [Installation](#installation)
 * [Usage](#usage)
 * [License](#license)
 * [Contributors](#contributors)
-* [Tests](#tests)
-* [Questions](#questions)
 * [Links](#links)
-
+* [Screenshots](#screenshots)
+* [Questions](#questions)
 
 ## Description:
-This App is a Google Book Search engine. Users can login and search for books by author and title. This will pull up a list of related titles. Users will then be able to save the titles to there account.
-
+This book search engine is used to look up and add books to your profile. 
 
 ## Installation:
-Users can go to the github repository and clone the repository to there machine. They will need to download the needed dependencies that are in the package.json files. They can then run the file using npm start.
+1. Clone from Github repository. <br>
+3. Install required npm packages: <br>
+* react.js <br>
+* mongodb <br>
+* mongoose <br>
+* graphQl <br>
+
 
 
 ## Usage:
-npm start runs the app. The users can then access the file on localhost if the live link is not functioning.
-
+Through Local Server:<br>
+1. Start from the terminal using npm start. <br>
+2. Will open in browser automatically.
 
 ## License:
-This Repository is covered under the following license: [ISC] 
+This Repository is covered under the following license: [ISC]
 
 ## Contributors:
-Stephen Pena
+Richard Flores
 
+## Links:
+Deployed Application: https://thawing-inlet-87474.herokuapp.com/ <br>
+Github Repository: https://github.com/Richardflores009/book-search-engine <br>
 
+## Screenshots:
 
-## Tests:
-none required to run.
+![](https://raw.githubusercontent.com/Richardflores009/book-search-engine/master/assets/img/Screen%20Shot%202021-01-04%20at%2019.12.13.png)
 
-
-## Questions
-Contact me:
-Github: [https://github.com/penaone](https://github.com/penaone)
-Email: [penaone@gmail.com](penaone@gmail.com)
-
-## Links
-https://shrouded-reaches-16625.herokuapp.com/
+## Questions:
+Contact me:<br>
+Github: [https://github.com/Richardflores009](https://github.com/Richardflores009)<br>
+Email: [richardflores009@gmail.com](richardflores009@gmail.com)<br>
