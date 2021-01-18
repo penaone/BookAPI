@@ -32,17 +32,17 @@ Through Local Server:<br>
 This Repository is covered under the following license: [ISC]
 
 ## Contributors:
-Richard Flores
+Stephen Peña
 
 ## Links:
-Deployed Application: https://thawing-inlet-87474.herokuapp.com/ <br>
-Github Repository: https://github.com/Richardflores009/book-search-engine <br>
+Deployed Application: 
+Github Repository:
 
 ## Screenshots:
 
-![](https://raw.githubusercontent.com/Richardflores009/book-search-engine/master/assets/img/Screen%20Shot%202021-01-04%20at%2019.12.13.png)
+
 
 ## Questions:
 Contact me:<br>
-Github: [https://github.com/Richardflores009](https://github.com/Richardflores009)<br>
-Email: [richardflores009@gmail.com](richardflores009@gmail.com)<br>
+Github: [https://github.com/penaone](https://github.com/penaone)<br>
+Email: [penaone@gmail.com](penaone@gmail.com)<br>
