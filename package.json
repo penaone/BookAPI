@@ -12,7 +12,7 @@
   },
   "engines": {
     "node": "14.x"
-},
+  },
   "repository": {
     "type": "git",
     "url": "git@work.github.com:arosenkranz/googlebooks-app.git"
