@@ -35,10 +35,12 @@ This Repository is covered under the following license: [ISC]
 Stephen Peña
 
 ## Links:
-Deployed Application: 
-Github Repository:
+Deployed Application: https://penabookapi.herokuapp.com/
+Github Repository: https://github.com/penaone/BookAPI
 
 ## Screenshots:
+![Alt text](/client/public/screenshot.JPG?raw=true "BOOKAPI")
+![Alt text](/client/public/screenshot2.JPG?raw=true "BOOKAPI")
 
 
 
